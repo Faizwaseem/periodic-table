@@ -1,0 +1,107 @@
+.table1{
+    text-align: center;
+    width: 1200px;
+}
+
+
+
+h1{
+    background-color: #ffff5d;
+    font-size: 100px;
+    margin: 10px 4px 27px 0px;
+    text-align: center;
+}
+   
+
+
+.orange{
+    padding: 3PX;
+    border: 1px solid black;
+    
+    background-color: orange;
+    width: 40px;
+    text-align:center;
+}
+
+.pink{
+    padding: 3PX;
+    border: 1px solid black;
+    width: 40px;
+    background-color: pink;
+    text-align: center;
+}
+.blue{
+    background-color: skyblue;
+    text-align: center;
+    padding: 3PX;
+    border: 1px solid black;
+    width: 40px;
+}
+.yellow{
+    background-color: rgb(248, 248, 112);
+text-align: center;
+padding: 3PX;
+    border: 1px solid black;
+    width: 40px;
+}
+.dyellow{
+    background-color:rgb(248, 212, 6);
+    text-align: center;
+    padding: 3PX;
+    border: 1px solid black;
+    width: 40px;
+}
+.green{
+    background-color:lightgreen;
+    text-align: center;
+    padding: 3PX;
+    border: 1px solid black;
+    width: 40px;
+}
+.peach{
+    background-color:rgb(206, 104, 14);
+text-align: center;
+padding: 3PX;
+width: 40px;
+    border: 1px solid black;
+
+}
+.bis{
+    background-color: bisque;
+    text-align: center;
+padding: 3px;
+border:1px solid black ;
+width: 40px;
+}
+.sky{
+    background-color: skyblue;
+    text-align: center;
+    padding: 3px;
+    border:1px solid black ;
+    width: 40px;
+}
+.beige{
+    background-color: beige;
+    text-align: center;
+    padding: 3px;
+    border:1px solid black ;
+    width: 40px;
+
+}
+.border{
+    text-align: center;
+    padding: 3px;
+    border:1px solid black ;
+    width: 40px;
+    color: red
+
+}
+
+
+
+
+
+
+
+
+
